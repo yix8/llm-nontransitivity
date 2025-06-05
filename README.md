@@ -25,7 +25,7 @@ Automatic evaluation methods using large language models (LLMs) are increasingly
 
 
 ### 📊 Evaluation
-We evaluate our proposed method on the [AlpacaEval dataset](https://github.com/tatsu-lab/alpaca_eval), involving:
+We evaluate our proposed method on the [AlpacaEval](https://github.com/tatsu-lab/alpaca_eval) dataset, involving:
 
 - Measuring non-transitivity across different scenarios using GPT-4-Turbo and GPT-3.5-Turbo as judge models.
 
