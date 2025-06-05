@@ -7,9 +7,13 @@
   <a href="https://arxiv.org/abs/2502.14074">
     <img src="https://img.shields.io/badge/Paper-arXiv-b5212f.svg?logo=arxiv" />
   </a>
+<a href="https://www.python.org/downloads/release/python-3100/">
+  <img src="https://img.shields.io/badge/python-3.10%2B-blue.svg" />
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/LICENSE-MIT-green.svg" />
   </a>
+</a>
+
 </p>
 
 <p align="center">
