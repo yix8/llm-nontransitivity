@@ -40,13 +40,10 @@ Our results show that the round-robin and Swim-based rankings significantly impr
 
 
 ```bibtex
-@misc{xu2025investigatingnontransitivityllmasajudge,
-      title={Investigating Non-Transitivity in LLM-as-a-Judge}, 
-      author={Yi Xu and Laura Ruis and Tim Rocktäschel and Robert Kirk},
-      year={2025},
-      eprint={2502.14074},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2502.14074}, 
+@article{xu2025investigating,
+  title={Investigating Non-Transitivity in LLM-as-a-Judge},
+  author={Xu, Yi and Ruis, Laura and Rockt{\"a}schel, Tim and Kirk, Robert},
+  journal={arXiv preprint arXiv:2502.14074},
+  year={2025}
 }
 ```
